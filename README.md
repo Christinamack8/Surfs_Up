@@ -15,3 +15,8 @@ December Temperature Data :
 
 
 ## Summary
+
+The temperature for June and December were fairly smiliar; the majority of the days in Oahu are in betwee 71-74.94 degrees.  The average rainfall was light measuring less that 0.14 inches over a three year period for less than 3/4 for the daily amount.  W. Avy would be smart to start an surf and ice cream business in Oahu, both activities would benefit from the lovely 70 degree temperatures and little rain.  
+Additional Queries one could perform:
+* How many other ice cream and surf shops are in the area to determine competition
+* Determing the amount of wind per month to understand how that affects the surf
